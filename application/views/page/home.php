@@ -23,9 +23,9 @@
             <img class="first-slide" src="<?php echo img_asset_url('mine04.jpg'); ?>" alt="First slide">
             <div class="container">
                 <div class="carousel-caption">
-                    <h1>Example headline.</h1>
-                    <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+                    <h1>Prospection Minière</h1>
+                    <p>La LSDC spécialiste de la prospection minière depuis 2000 vous propose de vous former au métier de mineur afin de devenir indépendant économiquement. Découvrer un métier fait pour vous...</p>
+                    <p><a class="btn btn-lg btn-primary" href="#" role="button">En savoir +</a></p>
                 </div>
             </div>
         </div>
@@ -33,9 +33,9 @@
             <img class="second-slide" src="<?php echo img_asset_url('mine02.jpg'); ?>" alt="Second slide">
             <div class="container">
                 <div class="carousel-caption">
-                    <h1>Another example headline.</h1>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+                    <h1>Respect de l'environnement</h1>
+                    <p>Attachée à l'environnement la LSDC permet la gestion des exploitation minière dans le respect de l'environnement. Devenez acteur de votre carrière en préservant la Terre</p>
+                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Nos engagement</a></p>
                 </div>
             </div>
         </div>
@@ -43,9 +43,9 @@
             <img class="third-slide" src="<?php echo img_asset_url('mine05.jpg'); ?>" alt="Third slide">
             <div class="container">
                 <div class="carousel-caption">
-                    <h1>One more for good measure.</h1>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+                    <h1>De l'escavation à la livraison</h1>
+                    <p>La LSDC s'occupe de toute la chaine d'approvisonnement, de l'escavation en passant par le traitement et le conditionnement des minerais, jusqu'à la livraison ou la revente</p>
+                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Nos services</a></p>
                 </div>
             </div>
         </div>
@@ -70,22 +70,22 @@
     <!-- Three columns of text below the carousel -->
     <div class="row">
         <div class="col-lg-4">
-            <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <img class="img-circle" src="<?php echo img_asset_url('heading01.jpg'); ?>" alt="Generic placeholder image" width="140" height="140">
+            <h2>Transformation</h2>
+            <p>Les minerais une fois extraits, sont transformé directement sur le site afin de répondre aux attentes de nos clients les plus exigeants, nous garantissons des barres de minerais de qualité dans les respect des standards.</p>
+            <p><a class="btn btn-default" href="#" role="button">En savoir plus</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-            <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Heading</h2>
-            <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <img class="img-circle" src="<?php echo img_asset_url('heading02.jpg'); ?>" alt="Generic placeholder image" width="140" height="140">
+            <h2>Exploitation</h2>
+            <p>Nous réalisons la prospection, l'excavation, la transformation et le transport nous même nous permetons un meilleurs rendement afin de vous garantir des minerais de qualité à coûts réduits afin de concrétiser vos projets.</p>
+            <p><a class="btn btn-default" href="#" role="button">En savoir plus</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-            <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <img class="img-circle" src="<?php echo img_asset_url('heading03.jpg'); ?>" alt="Generic placeholder image" width="140" height="140">
+            <h2>Sécurisation</h2>
+            <p>Parce que le métier de mineur peu s'avèrer dangereux, la LSDC possède son propre service de sécurité grantissant ansi la protection des bien et des personnes sur le site. Nous sommes vigilant aux conditions de travail.</p>
+            <p><a class="btn btn-default" href="#" role="button">En savoir plus</a></p>
         </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
 
@@ -96,11 +96,11 @@
 
     <div class="row featurette">
         <div class="col-md-7">
-            <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+            <h2 class="featurette-heading">Aux portes de <span class="text-muted">Los Santos...</span></h2>
+            <p class="lead">Située au Nord Est de Vinewood, notre expoitation minère est rapidement accessible par l'autoroute Nord-Est de Los Santos. Réduisant ainsi les temps de trajet.</p>
         </div>
         <div class="col-md-5">
-            <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+            <img class="featurette-image img-responsive center-block" src="<?php echo img_asset_url('hp02.jpg'); ?>" />
         </div>
     </div>
 
@@ -108,11 +108,11 @@
 
     <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-            <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+            <h2 class="featurette-heading">Une exploitation s'étendant sur <span class="text-muted">70</span> hectares...</h2>
+            <p class="lead">Une exploitation gigantesque pour assurer un divers choix de minerais, de la roche, du mangasène, du cuivre, de l'étain, de l'aluminium, de l'argent et même de l'or.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
-            <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+            <img class="featurette-image img-responsive center-block" src="<?php echo img_asset_url('hp01.jpg'); ?>">
         </div>
     </div>
 
@@ -120,11 +120,11 @@
 
     <div class="row featurette">
         <div class="col-md-7">
-            <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+            <h2 class="featurette-heading">Présent partout dans le monde avec <span class="text-muted">ThriftEX</span>...</h2>
+            <p class="lead">Notre transporteur partenaire ThrifEX nous permet d'importer et exporter sur l'ensemble du globe. Partenaire depuis 5 ans de la LOs Santos Drilling Company</p>
         </div>
         <div class="col-md-5">
-            <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+            <img class="featurette-image img-responsive center-block" src="<?php echo img_asset_url('hp03.jpg'); ?>">
         </div>
     </div>
 
